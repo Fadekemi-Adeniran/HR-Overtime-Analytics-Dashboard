@@ -14,10 +14,10 @@ To analyze employee overtime trends, identify workforce utilization patterns, ev
 - Identified peak overtime periods and workforce utilization patterns to highlight opportunities for scheduling optimization and cost management.
 
 ## Data Model
-  ![image alt](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics/blob/main/Retails%20Sales%20Data%20Model.jpg?raw=true)
+  ![image alt](https://github.com/Fadekemi-Adeniran/HR-Overtime-Analytics-Dashboard/blob/211d88b38120879f2b9f45fed5d0345ae94cc599/HR%20Overtime%20Data%20Model.jpg)
   
 ## Dashboard Preview
-  ![image alt](https://github.com/Fadekemi-Adeniran/Retail-Sales-Analytics/blob/859d3934933139075c3106c5f5a9bc60ed26508d/Retails%20Sales%20Analytics.jpg)
+  ![image alt](https://github.com/Fadekemi-Adeniran/HR-Overtime-Analytics-Dashboard/blob/211d88b38120879f2b9f45fed5d0345ae94cc599/HR%20Overtime%20Analytics.jpg)
 
 ## Key Insights
 - Employees recorded a total of **493,604 overtime instances**, highlighting significant overtime utilization across the workforce.
