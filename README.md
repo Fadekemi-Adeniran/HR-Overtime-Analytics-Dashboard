@@ -1,5 +1,5 @@
 # HR-Overtime-Analytics-Dashboard
-Workforce analytics dashboard designed to uncover overtime trends, employee utilization patterns, and operational workforce insights through interactive Power BI reporting
+HR workforce analytics dashboard providing insights into overtime utilization, staffing patterns, and workforce efficiency to support operational planning and resource optimization
 
 ## Objective
 To analyze employee overtime trends, identify workforce utilization patterns, evaluate overtime distribution across employee groups and time periods, and provide actionable insights that support workforce planning and operational efficiency
@@ -20,7 +20,7 @@ To analyze employee overtime trends, identify workforce utilization patterns, ev
   ![image alt](https://github.com/Fadekemi-Adeniran/HR-Overtime-Analytics-Dashboard/blob/211d88b38120879f2b9f45fed5d0345ae94cc599/HR%20Overtime%20Analytics.jpg)
 
 ## Key Insights
-- Employees recorded a total of **493,604 overtime instances**, highlighting significant overtime utilization across the workforce.
+- The workforce recorded over **493,000 overtime instances**, indicating significant reliance on overtime to meet operational demands.
 - The organization accumulated approximately **1.48 million total overtime hours**, indicating substantial operational demand beyond regular working hours.
 - **Morning shifts generated the highest overtime volume**, with **176,712 overtime occurrences**, significantly exceeding all other periods of the day.
 - **Noon shifts recorded the lowest overtime activity, with only 35,145 overtime occurrences**, suggesting lower staffing pressure during this period.
